@@ -1,4 +1,4 @@
 {
-    "Plugins": ["RMSChannels", "MeanChannels", "Laser3Amplitude", "TTF4Occupancy", "MLDQM", "Timing", "FEStatusBits", "ReadoutFlagsDropped", "ReadoutFlagsForced"],
-  "ChannelsCsvPath": "/eos/project/c/cms-ecalpfg2/www/ecalchannels.csv"
+    "Plugins": ["FEStatusBits", "Laser3Amplitude", "MLDQM", "ReadoutFlagsDropped", "ReadoutFlagsForced", "RMSChannels", "Timing", "TTF4Occupancy"],
+  "ChannelsCsvPath": "/eos/user/d/delvecch/www/PFG/ecalchannels.csv"
 }
